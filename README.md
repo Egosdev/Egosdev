@@ -26,14 +26,16 @@ I'm a programmer who likes algorithms solving real life problems. Also as a soci
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="SPSS" width="30" height="30" />
 </p>
 
-🧡  My passions
+<details>
+  <summary>🧡  My passions</summary>
 
-- **Video Games**
-- **Software**
-- **History**
-- **Science**
-- **Biology**
-- **Sustainable Development**
+- Video Games
+- Software
+- History
+- Science
+- Biology
+- Sustainable Development
+</details>
 <!--
 **Egosdev/Egosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
