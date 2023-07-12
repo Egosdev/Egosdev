@@ -6,7 +6,7 @@ I'm a programmer who likes algorithms solving real life problems. Also as a soci
 - ⚡ **LeetCode** [My Profile](https://leetcode.com/egosdev/)
 - ✨ **CoderByte** [My Profile](https://coderbyte.com/profile/egedev)
 
-<h3 align="left">Technologies & Tools:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="30" height="30" />
@@ -17,6 +17,7 @@ I'm a programmer who likes algorithms solving real life problems. Also as a soci
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
 </p>
+<h3 align="left">Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="30" height="30" />
@@ -28,13 +29,15 @@ I'm a programmer who likes algorithms solving real life problems. Also as a soci
 
 <details>
   <summary><strong>🧡  My passions</strong></summary>
-  
-- Video Games
-- Software
-- History
-- Science
-- Biology
-- Sustainable Development
+  <br>
+  <ul>
+    <li>Video Games</li>
+    <li>Software</li>
+    <li>History</li>
+    <li>Science</li>
+    <li>Biology</li>
+    <li>Sustainable Development</li>
+  </ul>
 </details>
 <!--
 **Egosdev/Egosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
