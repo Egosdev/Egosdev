@@ -1,5 +1,5 @@
 <h2>Hi, I'm Ege Canıbek</h2>
-<h align="left">I'm a programmer who likes algorithms solving real life problems. Also as a social entrepreneur, I like attending events, seminars and interacting others. Teaching what I know is my life philosophy.</h>
+<h align="left">I'm a programmer who likes algorithms that solving real life problems. Also as a social entrepreneur, I really enjoy developing a project with talented teams, attending events, workshops, seminars and interacting others. Teaching what I know is my life philosophy.</h>
 <br>
 <br>
 <li>🌱 I’m currently learning <strong>.Net Core, SQL, Javascript, Node.js</strong></li>
