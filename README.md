@@ -1,5 +1,6 @@
 <h2>Hi, I'm a programmer who likes algorithms solving real life problems.</h2>
 Also as a social entrepreneur, I love attending events, seminars and interacting others. Teaching what I know is my life philosophy.
+
 - 🌱 I’m currently learning **.Net Core, SQL, Javascript, Node.js**
 - 💬 Ask me about **C# and Unity**
 - ⚡ **LeetCode** [My Profile](https://leetcode.com/egosdev/) **CoderByte** [My Profile](https://coderbyte.com/profile/egedev)
@@ -14,7 +15,8 @@ Also as a social entrepreneur, I love attending events, seminars and interacting
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
-<h3 align="left"></h3>
+</p>
+<h3 align="left"> </h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="30" height="30" />
