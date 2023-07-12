@@ -29,7 +29,7 @@ I'm a programmer who likes algorithms solving real life problems. Also as a soci
 
 <details>
   <summary><strong>🧡  My passions</strong></summary>
-  <br>
+- 
 - Video Games
 - Software
 - History
