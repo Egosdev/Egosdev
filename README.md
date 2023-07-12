@@ -1,11 +1,10 @@
-<h2>Hi, I'm a programmer who likes algorithms solving real life problems.</h2>
-Also as a social entrepreneur, I love attending events, seminars and interacting others. Teaching what I know is my life philosophy.
-
+<h2>Hi, I'm Ege Canıbek</h2>
+I'm a programmer who likes algorithms solving real life problems. Also as a social entrepreneur, I like attending events, seminars and interacting others. Teaching what I know is my life philosophy.
 
 - 🌱 I’m currently learning **.Net Core, SQL, Javascript, Node.js**
 - 💬 Ask me about **C# and Unity**
 - ⚡ **LeetCode** [My Profile](https://leetcode.com/egosdev/)
-- ⚡ **CoderByte** [My Profile](https://coderbyte.com/profile/egedev)
+- ✨ **CoderByte** [My Profile](https://coderbyte.com/profile/egedev)
 
 <h3 align="left">Technologies & Tools:</h3>
 <p align="left">
@@ -18,7 +17,6 @@ Also as a social entrepreneur, I love attending events, seminars and interacting
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
 </p>
-<h3 align="left"> </h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="30" height="30" />
@@ -27,6 +25,15 @@ Also as a social entrepreneur, I love attending events, seminars and interacting
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="SPSS" width="30" height="30" />
 </p>
+
+🧡  My passions
+
+- **Video Games**
+- **Software**
+- **History**
+- **Science**
+- **Biology**
+- **Sustainable Development**
 <!--
 **Egosdev/Egosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
