@@ -1,7 +1,6 @@
 <h2>Hi, I'm Ege Canıbek</h2>
 I'm a programmer who likes algorithms solving real life problems. Also as a social entrepreneur, I like attending events, seminars and interacting others. Teaching what I know is my life philosophy.
 
-
 - 🌱 I’m currently learning **.Net Core, SQL, Javascript, Node.js**
 - 💬 Ask me about **C# and Unity**
 - ⚡ **LeetCode** [My Profile](https://leetcode.com/egosdev/)
@@ -29,7 +28,7 @@ I'm a programmer who likes algorithms solving real life problems. Also as a soci
 
 <details>
   <summary><strong>🧡  My passions</strong></summary>
-- 
+  
 - Video Games
 - Software
 - History
