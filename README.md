@@ -1,10 +1,10 @@
 <h2>Hi, I'm Ege Canıbek</h2>
 I'm a programmer who likes algorithms solving real life problems. Also as a social entrepreneur, I like attending events, seminars and interacting others. Teaching what I know is my life philosophy.
-
-- 🌱 I’m currently learning **.Net Core, SQL, Javascript, Node.js**
-- 💬 Ask me about **C# and Unity**
-- ⚡ **LeetCode** [My Profile](https://leetcode.com/egosdev/)
-- ✨ **CoderByte** [My Profile](https://coderbyte.com/profile/egedev)
+<br>
+<li>🌱 I’m currently learning <strong>.Net Core, SQL, Javascript, Node.js</strong></li>
+<li>💬 Ask me about <strong>C# and Unity</strong></li>
+<li>⚡ <strong>LeetCode</strong> [My Profile](https://leetcode.com/egosdev/)</li>
+<li>✨ <strong>CoderByte</strong> [My Profile](https://coderbyte.com/profile/egedev)</li>
 
 <h3 align="left">Technologies:</h3>
 <p align="left">
@@ -16,9 +16,9 @@ I'm a programmer who likes algorithms solving real life problems. Also as a soci
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
-</p>
+
 <h3 align="left">Tools:</h3>
-<p align="left">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="30" height="30" />
