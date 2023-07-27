@@ -1,8 +1,8 @@
 <h2>Hi, I'm Ege Canıbek</h2>
-<h align="left">I'm a programmer who likes algorithms that solving real life problems. Also as a social entrepreneur, I really enjoy developing a project with talented teams, attending events, workshops, seminars and interacting others. Teaching what I know is my life philosophy.</h>
+<h align="left">I'm a programmer who likes algorithms that solving real life problems. Also as a social entrepreneur, I really enjoy developing a project with talented teams, attending events, workshops, seminars and interacting others. Teaching what I know is my life philosophy. I taught coding to my friends many times at university, and also taught coding to 9 middle school students for 8 weekends as part of the 'CYDD Kodlamaca' project.</h>
 <br>
 <br>
-<li>🌱 I’m currently learning <strong>.Net Core, SQL, Javascript, Node.js</strong></li>
+<li>🌱 I’m currently learning <strong>.Net Core, SQL, Javascript, HTML, CSS</strong></li>
 <li>💬 Ask me about <strong>C# and Unity</strong></li>
 <li>⚡ <strong>LeetCode</strong> <a href="https://leetcode.com/egosdev/">Profile</a></li>
 <li>✨ <strong>CoderByte</strong> <a href="https://coderbyte.com/profile/egedev">Profile</a></li>
